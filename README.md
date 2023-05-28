@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/jo4lj04j962wkv6y?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-popovers)
 
-WEB Version input project
+WEB Version https://garfy2.github.io/ahj-popovers/
 
 ---
 
